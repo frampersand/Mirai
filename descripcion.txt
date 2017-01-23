@@ -1,0 +1,5 @@
+Versión 2 del proyecto Haruka/Mirai
+Mismas funciones que versiones anteriores.
+Código más ordenado e individualizado.
+Hace fetch directamente en la página de búsquedas de MyAnimeList para obtener resultados de los detalles de anime
+Escribe directamente en el channel de telegram @aflvTrack
